@@ -1,0 +1,21 @@
+.select-div {
+    display: flex;
+    justify-content: flex-end;
+}
+.select-container {
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+}
+.select-container select {
+    border: none;
+}
+
+.loadmore-btn {
+    padding: .7rem;
+    border: none;
+    background-color: transparent;
+    margin: 0 auto;
+    cursor: pointer;
+    display: block
+}
